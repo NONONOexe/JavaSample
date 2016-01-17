@@ -6,13 +6,6 @@ public class TimerSorter extends Sorter {
 		super(sortImple);
 	}
 
-	public void timerSort(int[] a) {
-		long start = System.nanoTime();
-		sort(a);
-		long end = System.nanoTime();
-		System.out.println("time:" + (end - start));
-	}
-
 	public long nanoSortTime(int[] a) {
 		long start = System.nanoTime();
 		sort(a);
