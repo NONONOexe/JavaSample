@@ -1,4 +1,4 @@
-package jp.ac.aitech.maslab.ando.javasample;
+package jp.ac.aitech.maslab.ando.javasample.swing;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -10,7 +10,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 
-public class SwingTextFieldSample {
+public class TextFieldSample {
 
 	public static void main(String[] args) {
 		JFrame jFrame = new JFrame("SwingTextFieldSample");

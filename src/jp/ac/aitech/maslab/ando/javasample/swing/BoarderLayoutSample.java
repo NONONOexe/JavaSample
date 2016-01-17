@@ -1,4 +1,4 @@
-package jp.ac.aitech.maslab.ando.javasample;
+package jp.ac.aitech.maslab.ando.javasample.swing;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.border.LineBorder;
 
-public class SwingBoarderLayoutSample {
+public class BoarderLayoutSample {
 
 	public static void main(String[] args) {
 		JFrame jFrame = new JFrame("BoarderLayoutSample");

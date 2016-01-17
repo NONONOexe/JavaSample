@@ -1,4 +1,4 @@
-package jp.ac.aitech.maslab.ando.javasample;
+package jp.ac.aitech.maslab.ando.javasample.javafx;
 
 import javafx.application.Application;
 import javafx.application.Platform;
@@ -11,7 +11,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-public class JavaFXButtonSample extends Application {
+public class ButtonSample extends Application {
 
 	public static void main(String[] args) {
 		Application.launch(args);

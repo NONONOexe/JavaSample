@@ -1,4 +1,4 @@
-package jp.ac.aitech.maslab.ando.javasample;
+package jp.ac.aitech.maslab.ando.javasample.javafx;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -6,7 +6,7 @@ import javafx.scene.control.Label;
 import javafx.scene.text.Font;
 import javafx.stage.Stage;
 
-public class JavaFXHelloWorldSample extends Application {
+public class HelloWorldSample extends Application {
 
 	public static void main(String[] args) {
 		Application.launch(args);

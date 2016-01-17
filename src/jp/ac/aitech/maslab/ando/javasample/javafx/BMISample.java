@@ -1,4 +1,4 @@
-package jp.ac.aitech.maslab.ando.javasample;
+package jp.ac.aitech.maslab.ando.javasample.javafx;
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
@@ -11,7 +11,7 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
 
-public class JavaFXBMISample extends Application {
+public class BMISample extends Application {
 
 	TextField textFieldH = new TextField();
 	TextField textFieldW = new TextField();

@@ -1,4 +1,4 @@
-package jp.ac.aitech.maslab.ando.javasample;
+package jp.ac.aitech.maslab.ando.javasample.swing;
 
 import java.awt.Color;
 import java.awt.GridLayout;
@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.border.LineBorder;
 
-public class SwingGridLayoutSample {
+public class GridLayoutSample {
 
 	public static final int ROWS = 5;// 行数
 	public static final int COLS = 5;// 列数
